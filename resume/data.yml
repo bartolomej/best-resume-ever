@@ -2,9 +2,7 @@ name:
   first: Bartolomej
   middle:
   last: Kozorog
-about: Hi, my name is Bartolomej Kozorog. I"m just about the most boring type of person you could
-       possibly imagine. I like collecting leaves from the tree in my back yard and documenting
-       each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
+about: Hi, my name is Bartolomej Kozorog. I'm a fullstack developer and CS student.
 position: Software Developer
 
 birth:
@@ -98,4 +96,3 @@ contact:
   city: Ljubljana
   website: https://bartolomej.site
   github: bartolomej
-lang: sl, en
