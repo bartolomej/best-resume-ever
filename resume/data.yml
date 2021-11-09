@@ -20,7 +20,6 @@ experience:
 
 - company: Libera
   position: Full Stack Developer
-  timeperiod: since March 2021
   description: Working on mobility related full stack projects.
 
 - company: Digital School
@@ -100,4 +99,3 @@ contact:
   website: https://bartolomej.site
   github: bartolomej
 lang: sl, en
-`
